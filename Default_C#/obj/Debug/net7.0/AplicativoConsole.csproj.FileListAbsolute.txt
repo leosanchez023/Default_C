@@ -82,3 +82,17 @@ C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\
 C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.pdb
 C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
 C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\GIt\Default_C#\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\GIt\Default_C#\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\GIt\Default_C#\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\GIt\Default_C#\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\GIt\Default_C#\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\GIt\Default_C#\obj\Debug\net7.0\ref\AplicativoConsole.dll
