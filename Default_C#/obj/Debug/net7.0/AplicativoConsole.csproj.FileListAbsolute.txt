@@ -1,0 +1,84 @@
+C:\Users\leona\Desktop\AplicativoConsole\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\AplicativoConsole\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\AplicativoConsole\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\AplicativoConsole\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\AplicativoConsole\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\AplicativoConsole\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .2 - Copia\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\aula 1\exercicio .1\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia\obj\Debug\net7.0\ref\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\bin\Debug\net7.0\AplicativoConsole.exe
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\bin\Debug\net7.0\AplicativoConsole.deps.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\bin\Debug\net7.0\AplicativoConsole.runtimeconfig.json
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\bin\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\bin\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.AssemblyInfo.cs
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\refint\AplicativoConsole.dll
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.pdb
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\AplicativoConsole.genruntimeconfig.cache
+C:\Users\leona\Desktop\FACULDADE\2 ANO\DEFAULT - Copia - Copia\obj\Debug\net7.0\ref\AplicativoConsole.dll
